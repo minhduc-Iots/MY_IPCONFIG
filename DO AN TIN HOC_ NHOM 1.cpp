@@ -195,7 +195,7 @@ int main() {
 		pAdapterInfo = (IP_ADAPTER_INFO *)malloc(ulOutBufLen);
 	}
 	do {
-		cout << "\t\t\t\t\t\t Write by Shark House"<<endl;
+		cout << "\t\t\t\t\t\t Write by Duc and Ngoc"<<endl;
 		cout << "Menu: " << endl;
 		cout << "\tOption 1: ipconfig" << endl;
 		cout << "\tOption 2: ipconfig /all" << endl;
@@ -220,7 +220,7 @@ int main() {
 			case 5:
 				chon_menu = 0;
 				cout << "Thank you for using my ipconfig"<<endl;
-				cout << "\t\t\t\t\t\t Write by Shark House"<<endl;
+				cout << "\t\t\t\t\t\t Write by Duc and Ngoc"<<endl;
 				break;
 			default:
 				break;
